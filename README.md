@@ -1,2 +1,9 @@
-# Unipi_Datathon_2022
-In a 6 hour time interval, we have to provide a report that analyses time series information received by the smart energy meters of households in a specific region and forecast future energy consumptions. This project is divided in two parts. The first part is the datathon, while the second part is further analysis on this project.
+# Datathon2022
+
+We provide a report that analyses the information received by the smart energy meters of households in a region overseen by the organisation in an hourly basis. 
+
+The report is produced using Machine Learning tecniques.
+
+The final output of the project is a brief, self-standing report along with the developed code.
+
+Keywords: machine learning, deep learning, neural networks, time-series forecasting, anomaly detection
